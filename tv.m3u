@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1,GTV
+https://cdn1.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T Sports
+https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,pTV SPORTS
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.m3u8
+#EXTINF:-1,A SPORTS
+http://160.238.0.66/load/asports/chunks.m3u8
+#EXTINF:-1,TEN SPORTS
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514260.m3u8
+#EXTINF:-1,STAR SPORTS 1
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514305.m3u8
+#EXTINF:-1,STAR SPORTS 2
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514291.M3U8
+#EXTINF:-1,STAR SPORTS 3
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514238.M3U8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
 #EXTINF:-1,DBC_NEWS_HD
 http://15.1.1.34:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MASRANGA_HD
@@ -43,6 +66,7 @@ http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 https://tv.googledrivelinks.com//live.php?c=Zee_Bangla&q=1200&e=.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
 http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,9X_JALWA_HD
 http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
