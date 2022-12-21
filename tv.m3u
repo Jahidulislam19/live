@@ -15,13 +15,22 @@ http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514305.m3u8
 http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514291.M3U8
 #EXTINF:-1,STAR SPORTS 3
 http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514238.M3U8
+#EXTINF:-1,SONY SPORTS 1
+https://tv.googledrivelinks.com/live.php?c=Ten_HD&q=1200&e=.m3u8
+#EXTINF:-1,SONY SPORTS 2
+https://tv.googledrivelinks.com/live.php?c=Ten2_HD&q=1200&e=.m3u8
+#EXTINF:-1,SONY SPORTS 3
+https://tv.googledrivelinks.com/live.php?c=Ten3_HD&q=1200&e=.m3u8
+#EXTINF:-1,SONY SPORTS 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
+#EXTINF:-1,SONY SPORTS 5
 #EXTINF:-1,
+https://tv.googledrivelinks.com/live.php?c=Sony_Six_SD&q=1200&e=.m3u8
 #EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+
+
+
+
 #EXTINF:-1,DBC_NEWS_HD
 http://15.1.1.34:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MASRANGA_HD
