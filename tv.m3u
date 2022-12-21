@@ -4,6 +4,7 @@ http://15.1.1.34:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MASRANGA_HD
 http://15.1.1.34:8282/maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKATTOR_HD
+https://raw.githubusercontent.com/Jahidulislam19/live/main/tv.m3u
 https://cdn1.aliflailabd.com/ekattor/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INDEPENDENT_HD
 http://15.1.1.34:8282/Independent-Tv/tracks-v1a1/mono.m3u8
