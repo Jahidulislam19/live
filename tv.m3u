@@ -31,6 +31,10 @@ https://tv.googledrivelinks.com/live.php?c=Sony_Six_SD&q=1200&e=.m3u8
 #EXTINF:-1, Discovery Bangla
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 
+EXTINF:-1, Discovery Bangla 2
+
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+
 
 
 #EXTINF:-1,DBC_NEWS_HD
