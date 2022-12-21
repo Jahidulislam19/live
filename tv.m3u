@@ -26,10 +26,10 @@ https://tv.googledrivelinks.com/live.php?c=Ten3_HD&q=1200&e=.m3u8
 #EXTINF:-1,SONY SPORTS 4
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
 #EXTINF:-1,SONY SPORTS 5
-#EXTINF:-1,
-https://tv.googledrivelinks.com/live.php?c=Sony_Six_SD&q=1200&e=.m3u8
-#EXTINF:-1,
 
+https://tv.googledrivelinks.com/live.php?c=Sony_Six_SD&q=1200&e=.m3u8
+#EXTINF:-1, Discovery Bangla
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 
 
 
