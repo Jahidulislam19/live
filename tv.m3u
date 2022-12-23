@@ -12,11 +12,13 @@ http://160.238.0.66/load/asports/chunks.m3u8
 #EXTINF:-1,TEN SPORTS
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=809451&extension=ts
 #EXTINF:-1,STAR SPORTS 1
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862743&extension=ts
 #EXTINF:-1,STAR SPORTS 2
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
-#EXTINF:-1,STAR SPORTS 3
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
+#EXTINF:-1,STAR SELECT 1
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862747&extension=ts
+#EXTINF:-1,STAR SELECT 2
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862748&extension=ts
 #EXTINF:-1,SONY SPORTS 1
 https://tv.googledrivelinks.com/live.php?c=Ten_HD&q=1200&e=.m3u8
 #EXTINF:-1,SONY SPORTS 2
