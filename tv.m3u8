@@ -87,10 +87,20 @@ http://15.1.1.34:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_MAX_HD
 https://tv.googledrivelinks.com//live.php?c=Zee_Bangla&q=1200&e=.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+#EXTINF:-1,DURONTO TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
 http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1,STAR JALSHA
+http://103.143.235.50/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,COLORS BANGLA
+http://103.143.235.50/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY AATH
+http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9X_JALWA_HD
 http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9XM_HD
